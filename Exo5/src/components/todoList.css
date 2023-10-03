@@ -1,0 +1,17 @@
+.high {
+    color: red;
+}
+
+.complete {
+    background-image: repeating-linear-gradient(
+    -45deg,
+    #ccc,
+    #ccc 10px,
+    transparent 10px,
+    transparent 20px
+  );
+  }
+
+.uncomplete {
+    background-color: none;
+}
